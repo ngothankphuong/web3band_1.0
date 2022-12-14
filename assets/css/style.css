@@ -177,7 +177,7 @@ html {
 }
 
 #slider .text-content{
-    color: white;
+    color: #000;
     position: absolute;
     bottom: 47px;
     width: 100%;
